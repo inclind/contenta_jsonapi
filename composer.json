@@ -51,7 +51,6 @@
         "drupal/admin_toolbar": "^2.2||^3",
         "drupal/consumer_image_styles": "^3||^4",
         "drupal/consumers": "^1.8",
-        "drupal/contentajs": "^1||^2",
         "drupal/core": "^8.9||^9||^10",
         "drupal/core-project-message": "^8.9||^9||^10",
         "drupal/core-vendor-hardening": "^8.9||^9||^10",

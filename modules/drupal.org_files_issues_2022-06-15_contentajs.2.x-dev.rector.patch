@@ -1,0 +1,13 @@
+diff --git a/contentajs.info.yml b/contentajs.info.yml
+index ce1db1a..89e5f34 100644
+--- a/contentajs.info.yml
++++ b/contentajs.info.yml
+@@ -1,7 +1,6 @@
+ name: Contenta JS
+ description: Provides server side configuration options for Contenta JS.
+-core: 8.x
+-core_version_requirement: ^8 || ^9
++core_version_requirement: ^8 || ^9 || ^10
+ type: module
+ dependencies:
+   - jsonrpc

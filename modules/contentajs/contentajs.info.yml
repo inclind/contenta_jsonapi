@@ -1,0 +1,12 @@
+name: Contenta JS
+description: Provides server side configuration options for Contenta JS.
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+dependencies:
+  - drupal:jsonrpc
+  - drupal:openapi
+
+# Information added by Drupal.org packaging script on 2021-01-05
+version: '2.0.0'
+project: 'contentajs'
+datestamp: 1609843505
